@@ -12,6 +12,8 @@ I’m a self-taught front-end developer with a keen eye for clean and useful UI.
 
 - 🎨 Also, I experimented with various modern CSS tools, including **TailwindCSS**, **CSS Modules**, and **Styled Components**.
 
-And now, my path continues with a growing curiosity in **TypeScript** and the **React Native** library.
+- 🔧 And now, my path continues with a growing curiosity in **Node.js** and backend fundamentals to better understand how everything connects behind the sceanes.
+
+Also I'm looking into **TypeScript** and **React Native** library, they might be my next steps.
 
 Always open to exploring new and exciting tech domains.
